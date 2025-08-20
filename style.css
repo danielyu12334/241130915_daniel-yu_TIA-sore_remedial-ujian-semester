@@ -63,3 +63,5 @@
         content: attr(data-label);
       }
       th { display: none; }
+    }
+  </style>
